@@ -1,0 +1,3 @@
+C:/Users/sarse/CLionProjects/WorkCompany/cmake-build-debug/CMakeFiles/WorkCompany.dir
+C:/Users/sarse/CLionProjects/WorkCompany/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sarse/CLionProjects/WorkCompany/cmake-build-debug/CMakeFiles/rebuild_cache.dir

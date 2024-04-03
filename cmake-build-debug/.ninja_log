@@ -1,0 +1,19 @@
+# ninja log v5
+1	2813	7333487593675487	CMakeFiles/WorkCompany.dir/main.cpp.obj	17e4da9e41d985ea
+2815	3316	7333487598681503	WorkCompany.exe	2e87f036ef793171
+4	2080	7337750341598805	CMakeFiles/WorkCompany.dir/main.cpp.obj	17e4da9e41d985ea
+2080	3228	7337750353068046	WorkCompany.exe	2e87f036ef793171
+4	648	7337751586766812	CMakeFiles/WorkCompany.dir/main.cpp.obj	17e4da9e41d985ea
+648	873	7337751588984085	WorkCompany.exe	2e87f036ef793171
+4	973	7337761273853068	CMakeFiles/WorkCompany.dir/main.cpp.obj	17e4da9e41d985ea
+974	1303	7337761277113209	WorkCompany.exe	2e87f036ef793171
+4	1246	7337763456152022	CMakeFiles/WorkCompany.dir/main.cpp.obj	17e4da9e41d985ea
+1248	1622	7337763460659760	WorkCompany.exe	2e87f036ef793171
+4	887	7337768893216751	CMakeFiles/WorkCompany.dir/main.cpp.obj	17e4da9e41d985ea
+888	1194	7337768896262681	WorkCompany.exe	2e87f036ef793171
+4	603	7337773478229575	CMakeFiles/WorkCompany.dir/main.cpp.obj	17e4da9e41d985ea
+603	758	7337773479755443	WorkCompany.exe	2e87f036ef793171
+5	657	7337774394644536	CMakeFiles/WorkCompany.dir/main.cpp.obj	17e4da9e41d985ea
+658	855	7337774396592096	WorkCompany.exe	2e87f036ef793171
+4	652	7337774952208334	CMakeFiles/WorkCompany.dir/main.cpp.obj	17e4da9e41d985ea
+653	849	7337774954145836	WorkCompany.exe	2e87f036ef793171
